@@ -1,5 +1,8 @@
 # Beginner Projects
-[![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/beginner-projects/Lobby)
+
+# UNMAINTAINED
+
+## Please fork this project if you want a copy, as it will be deleted in the near future
 
 A list of projects for beginners.
 
