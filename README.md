@@ -2,7 +2,9 @@
 
 # UNMAINTAINED
 
-## Please fork this project if you want a copy, as it will be deleted in the near future
+## Please fork this project if you want a copy, as it will be deleted in the near future.
+
+### If you are willing to maintain it and would like me to transfer ownership, please contact me.
 
 A list of projects for beginners.
 
