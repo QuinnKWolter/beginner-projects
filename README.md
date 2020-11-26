@@ -245,7 +245,7 @@ By using the random module, Python can do things like pseudo-random number gener
   - Allow the user to select the number of dice to be drawn on screen(1-4) 2. Add up the total of the dice and display it
 
 ### Count and Fix Green Eggs and Ham
-Some of you may remember the Dr. Sues story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
+Some of you may remember the Dr. Seuss story "Green Eggs and Ham". For those of you that don't remember it or have never heard of it, [here](http://pastebin.com/XMY48CnN) is the story. However, there is a problem with the story I gave you - every time the word I is used, it is lowercase.
 Because of this problem, your job is to do the following:
 - Copy the story I gave you into a regular text file.
 - Create a program that reads through the story and makes the letter i uppercase any time it should be. (Make sure to change it when it's used in sam-I-am's name too.)
